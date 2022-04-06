@@ -8,14 +8,12 @@ import Footer from './components/Footer.vue';
 </script>
 
 <template>
-  <div>
-    <Navbar />
-    <TopItem />
-    <Cards />
-    <Testimony />
-    <Contact />
-    <Footer />
-  </div>
+  <Navbar />
+  <TopItem />
+  <Cards />
+  <Testimony />
+  <Contact />
+  <Footer />
 </template>
 
 <style></style>

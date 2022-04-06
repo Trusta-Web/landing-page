@@ -2,11 +2,7 @@
   <footer class="font-Lexend p-4 bg-black sm:p-6 dark:bg-gray-800">
     <div class="mt-10 mb-10 md:mb-0">
       <a href="https://flowbite.com" class="flex items-center">
-        <img
-          src="../assets/logo-white.png"
-          class="mr-3 h-8"
-          alt="FlowBite Logo"
-        />
+        <img src="../assets/logo-white.png" class="h-8" alt="FlowBite Logo" />
       </a>
     </div>
 
