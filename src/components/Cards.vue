@@ -1,7 +1,6 @@
 <template>
   <div
-    ref="porto"
-    id="testclick"
+    id="porto"
     class="container lg:ml-20 mb-20 py-5 font-Lexend"
   >
     <h1 class="font-black ml-6 lg:ml-2 text-4xl lg:text-4xl lg:tracking-tight">

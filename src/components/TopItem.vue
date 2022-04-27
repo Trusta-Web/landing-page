@@ -16,10 +16,10 @@
         accelerate your business with us.
       </p>
       <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
-        <div class="rounded-md shadow">
+        <div class="rounded-md">
           <a
-            href="https://api.whatsapp.com/send?phone=6289601807953&text=Hello%20Trusta%20I%20want%20to%20get%20started%20with%20you%20"
-            class="lg:w-full w-1/2 flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-sky-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10"
+            href="https://api.whatsapp.com/send?phone=6282123927755&text=Hello%20Trusta,%20I'm%20interested%20in%20accelerating%20my%20business."
+            class="lg:w-full w-1/2 flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 hover:bg-blue-400 md:py-4 md:text-lg md:px-10"
           >
             Get in Touch
           </a>
@@ -32,7 +32,7 @@
       </div>
       <div class="relative h-32 w-32">
         <div
-          class="hidden lg:absolute lg:inset-x-0 text-slate-400 text-lg bottom-0 h-16 ..."
+          class="mt-5 lg:absolute lg:inset-x-0 text-slate-400 text-lg bottom-0 h-16 ..."
         >
           Our Clients
         </div>
@@ -58,13 +58,13 @@
         </div>
         <div>
           <img
-            src="https://media.discordapp.net/attachments/942089520256524362/957511762155020318/unknown.png"
-            style="width: 100px; height: 42px"
+            src="https://media.discordapp.net/attachments/942089520256524362/964381774912315442/songfa.png"
+            style="width: 70px; height: 70px"
           />
         </div>
         <div>
           <img
-            src="https://media.discordapp.net/attachments/942089520256524362/957511762155020318/unknown.png"
+            src="https://media.discordapp.net/attachments/942089520256524362/964381156533501982/unknown.png"
             style="width: 100px; height: 42px"
           />
         </div>

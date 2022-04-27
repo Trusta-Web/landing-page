@@ -11,7 +11,7 @@ import Footer from './components/Footer.vue';
   <Navbar />
   <TopItem />
   <Cards />
-  <Testimony />
+  <Testimony class="" />
   <Contact />
   <Footer />
 </template>
